@@ -5,7 +5,7 @@
 > [!WARNING]
 > This project is provided **as-is** without warranty of any kind.
 > Review the code before use in any environment you care about.
-> Use at your own risk.
+> Use at your own risk. This was intended to build the framework for the Electron app version.
 
 # Moments
 
